@@ -1,0 +1,15 @@
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.csproj.AssemblyReference.cache
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.AssemblyInfoInputs.cache
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.AssemblyInfo.cs
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\PokerCardsShuffle.exe
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\PokerCardsShuffle.deps.json
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\PokerCardsShuffle.runtimeconfig.json
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\PokerCardsShuffle.dll
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\ref\PokerCardsShuffle.dll
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\bin\Debug\net6.0\PokerCardsShuffle.pdb
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.dll
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\ref\PokerCardsShuffle.dll
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.pdb
+C:\Users\shawn\source\repos\PokerCardsShuffle\PokerCardsShuffle\obj\Debug\net6.0\PokerCardsShuffle.genruntimeconfig.cache
